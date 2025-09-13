@@ -1,7 +1,7 @@
 <!-- 
   Tags: DadosIA
   Label: 📉 Analise de Dados - Fato Dimensão
-  Description: Analise de Dados - Fato Dimensão
+  Description:⭐ Analise de Dados - Fato Dimensão
   path_hook: hookfigma.hook1
 -->
 
@@ -98,7 +98,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
 ### Execução
 ```python
 # O código já inclui dados simulados para demonstração
-python analise_despesas.py
+python fato_dimensao.py
 ```
 
 ### Personalizando com Seus Dados
@@ -190,8 +190,6 @@ O projeto segue as melhores práticas de análise de dados:
 - **Modularidade**: Estrutura organizada e reutilizável
 
 ---
-
-Este projeto é disponibilizado sob licença MIT. Sinta-se livre para usar, modificar e distribuir.
 
 ## 👨‍💻 Autor
 
