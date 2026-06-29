@@ -1,7 +1,7 @@
 <!-- 
   Tags: DadosIA
-  Label: 📉 Analise de Dados - Fato Dimensão
-  Description:⭐ Analise de Dados - Fato Dimensão
+  Label: 🧱 Fato Dimenssão - Análise de Despesas Pessoais com Python
+  Description:🌍 Analise de Dados - Fato Dimensão
   technical_requirement: Python, pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, Git
   path_hook: hookfigma.hook1
 -->
